@@ -1,0 +1,16 @@
+{
+  "name": "zha-jin-hua-game-server",
+  "version": "0.1.0",
+  "description": "在线联机娱乐炸金花 - 后端服务器（纯娱乐虚拟积分，无任何现金交易）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "license": "MIT"
+}
